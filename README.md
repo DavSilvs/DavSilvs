@@ -1,6 +1,6 @@
-### Hi. I'm Vitor Anjos. 
+# Hi. I'm Vitor Anjos. 
 ## Welcome to my GitHub.
-# I'm a Data Science student and enthusiast aiming to secure his first IT position.
+### I'm a Data Science student and enthusiast aiming to secure his first IT position.
 <!--
 **DavSilvs/DavSilvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
