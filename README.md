@@ -6,5 +6,5 @@
 
 - 🔭 I’m currently working on improving my knowledge base and tailoring my skills for an exciting IT career.
 - 🌱 I’m currently learning coding and Data Science with hyperion Dev and CoGrammar
-- 👯 I’m looking to collaborate on programming or Data Science projects.
+- 👯 I’m looking to collaborate on programming or data science projects.
 
