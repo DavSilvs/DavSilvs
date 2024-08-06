@@ -1,4 +1,4 @@
-# Hi. I'm Vitor Anjos. 
+# Hi. I'm Vitor David Anjos. 
 ## Welcome to my GitHub
 ### I'm a Data Science student and enthusiast aiming to start a career in IT.
 
